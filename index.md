@@ -22,7 +22,7 @@
 <img src="images/bert.png?raw=true"/>
 
 - Compared three different models on subset Natural Questions problem
-- Analyzed "intelligence" displayed by these model
+- Analyzed "intelligence" displayed by these models
 - Final model adds a Restricted Boltzmann Machine at the end of BERT for dimensionality reduction, leading to improved results
 
 ---
