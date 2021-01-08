@@ -1,7 +1,7 @@
 # Resume Overview
 
 ## Education
-### Columbia University, SEAS
+### <p> <p> Columbia University, SEAS
 
 
 ## Experience
