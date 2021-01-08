@@ -13,7 +13,7 @@
 
 ---
 
-### Competitons / School
+### Competitions / School
 
 [A Neural Twist on Natural Questions](https://github.com/maxstrome/brainNQ)
 
