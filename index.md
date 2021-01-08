@@ -4,7 +4,6 @@
 
 ### Research
 
----
 
 [A Method for Optimizing Opaque Filter Queries](https://dl.acm.org/doi/10.1145/3318464.3389766)
 
@@ -17,7 +16,6 @@
 
 ### Competitons / School
 
----
 
 [A Neural Twist on Natural Questions](https://github.com/maxstrome/brainNQ)
 
