@@ -1,8 +1,12 @@
 # Resume Overview
 
 ## Education
-### <p> <p> Columbia University, SEAS
-
+### Columbia University, SEAS
+ - Master of Science in Computer Science, September 2020 – present
+ - GPA: 4.00/4.00
+### University of Michigan, LSA
+ - Bachelor of Science in Computer Science, May 2020
+ - GPA: 3.73/4.00
 
 ## Experience
 
