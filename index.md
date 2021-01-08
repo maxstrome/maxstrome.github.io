@@ -15,13 +15,15 @@
 
 ### Competitons / School
 
-- [A Neural Twist on Natural Questions](https://github.com/maxstrome/brainNQ)
+[A Neural Twist on Natural Questions](https://github.com/maxstrome/brainNQ)
+
+<img src="images/bert.png?raw=true"/>
 
 - Compared three different models on subset Natural Questions problem
 - Analyzed "intelligence" displayed by these model
 - Final model adds a Restricted Boltzmann Machine at the end of BERT for dimensionality reduction, leading to improved results
 
-- [RIIID Knowledge Tracing Kaggle Competition Submission](https://github.com/maxstrome/RIIIDFinal/tree/main)
+[RIIID Knowledge Tracing Kaggle Competition Submission](https://github.com/maxstrome/RIIIDFinal/tree/main)
 
 - Implemented increasingly intelligent models to learn about the knowledge tracing problem, the data, and get better results
 - Final model was ensemble between a light gradient boosting machine and a deep neural network
