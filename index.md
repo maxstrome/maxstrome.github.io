@@ -4,6 +4,8 @@
 
 ### Research
 
+---
+
 [A Method for Optimizing Opaque Filter Queries](https://dl.acm.org/doi/10.1145/3318464.3389766)
 
 <img src="images/voodoo.png?raw=true"/>
@@ -13,7 +15,9 @@
 
 ---
 
-### Competitions / School
+### Competitons / School
+
+---
 
 [A Neural Twist on Natural Questions](https://github.com/maxstrome/brainNQ)
 
@@ -22,6 +26,8 @@
 - Compared three different models on subset Natural Questions problem
 - Analyzed "intelligence" displayed by these model
 - Final model adds a Restricted Boltzmann Machine at the end of BERT for dimensionality reduction, leading to improved results
+
+---
 
 [RIIID Knowledge Tracing Kaggle Competition Submission](https://github.com/maxstrome/RIIIDFinal/tree/main)
 
