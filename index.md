@@ -1,5 +1,6 @@
 # Resume Overview
-
+## Current Status
+I am pursuing a Master of Science in Computer Science at Columbia University with a focus in machine learning. This Master’s program is part time and online, allowing me to work concurrently.
 ## Education
 ### Columbia University, SEAS
  - Master of Science in Computer Science, September 2020 – present
@@ -7,58 +8,28 @@
 ### University of Michigan, LSA
  - Bachelor of Science in Computer Science, May 2020
  - GPA: 3.73/4.00
+ 
+## Skills
+>(1 = familiar, 2 = comfortable, 3 = advanced)
+- Languages: Python (3), C++ (2), HTML / JavaScript (2), SQL (2), Bash (2), Scala (1), Java (1), C (1) 
+- Frameworks: NumPy (3), Pandas (3), Matplotlib (2), TensorFlow (2), PyTorch (2), HuggingFace (2)
 
 ## Experience
 
-<!-- You have to wrap the "left" and "right" half of these headings in spans by
-hand -->
-### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
-
-Pied Piper is a multi-platform technology based on a proprietary universal
-compression algorithm that has consistently fielded high Weisman Scores™ that
-are not merely competitive, but approach the theoretical limit of lossless
-compression.
-
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
-
-### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
-
-Global movement of free coding clubs for young people.
- 
- - Awarded 'Teacher of the Month'
-
-## Projects
-
-### <span>Miss Direction</span> <span>Aug 2016</span>
-
-A mapping engine that misguides you:
-
-   - Won award at AIHacks 2016
-   - Built by all women team of newbie programmers
-   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
-
-## Education
-
-### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
-
-  - GPA 4.0
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
-
-## Skills
-
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
-
+### MATClinics Baltimore, MD
+#### Part time Software Engineer (Summer 2020)
+- Worked as a part time summer employee at MATClinics, an outpatient opioid clinic in Baltimore. Designed, created, and deployed a virtual assistant for MATClinics’ customers that handles scheduling and changing appointments, payment issues, basic opioid related medical questions, general questions about the company, and small talk.
+### Cisco Systems San Jose, CA 
+#### Software Engineer Intern, Enterprise Division (Summer 2019)
+- Employed Java to create a pipeline capable of storing and displaying live network telemetry data, utilizing the graph database Neo4j and various visualization tools.
+#### Software Engineer Intern, Service Provider Network and Technology Division (Summer 2018)
+- Created and implemented both front and back-end components of a web application that encourages and quantifies collaboration within Cisco. This program was adopted by 600 active users.
 
 ## Portfolio
 
 ---
 
-### Category Name 1 
+### Research
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -73,7 +44,7 @@ A mapping engine that misguides you:
 
 ---
 
-### Category Name 2
+### Competitons
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -82,6 +53,8 @@ A mapping engine that misguides you:
 - [Project 5 Title](http://example.com/)
 
 ---
+
+### School
 
 
 
