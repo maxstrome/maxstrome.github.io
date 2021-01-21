@@ -20,7 +20,7 @@ I am pursuing a Master of Science in Computer Science at Columbia University wit
 ### MATClinics Baltimore, MD
 
 #### Part time Software Engineer (Summer 2020)
-- Worked as a part time summer employee at MATClinics, an outpatient opioid clinic in Baltimore. Designed, created, and deployed a virtual assistant for MATClinics’ customers that handles scheduling and changing appointments, payment issues, basic opioid related medical questions, general questions about the company, and small talk.
+- Worked over the summer as an employee at MATClinics, an outpatient opioid clinic in Baltimore.  Designed, created, and deployed a conversational artificial intelligence for MATClinics’ customers that handles scheduling and changing appointments, payment issues, basic opioid related medical questions, general questions about the company, and small talk.
 
 
 ### Cisco Systems San Jose, CA 
