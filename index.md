@@ -10,7 +10,7 @@
 <img src="images/voodoo.png?raw=true"/>
 
 - Final paper was accepted to the SIGMOD 2020 conference
-- Employed hierarchal clustering during the pre-indexing phase of a database to generate a dendrogram.  Interrogated this dendrogram with a UCB algorithm to accelerate Select Limit queries that have a user defined function as the predicate.
+- Employed hierarchical clustering during the pre-indexing phase of a database to generate a dendrogram.  Interrogated this dendrogram with a UCB algorithm to accelerate Select Limit queries that have a user defined function as the predicate.
 
 ---
 
