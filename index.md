@@ -12,6 +12,8 @@
 - Final paper was accepted to the SIGMOD 2020 conference
 - Employed hierarchical clustering during the pre-indexing phase of a database to generate a dendrogram.  Interrogated this dendrogram with a UCB algorithm to accelerate Select Limit queries that have a user defined function as the predicate.
 
+[Using Machine Learning to Predict Rapid Decline of Kidney Function in Sickle Cell Anemia](https://onlinelibrary.wiley.com/journal/26886146)
+
 ---
 
 ### Competitions / School
