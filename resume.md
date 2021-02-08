@@ -12,9 +12,9 @@ I am pursuing a Master of Science in Computer Science at Columbia University wit
  
 ## Skills
 Languages:
-Advanced: Python | Comfortable: C++, HTML, JavaScript, SQL, Bash | Familiar: Scala, Java, C
+- Advanced: Python | Comfortable: C++, HTML, JavaScript, SQL, Bash | Familiar: Scala, Java, C
 Frameworks: 
-Advanced: NumPy, Pandas, Matplotlib, TensorFlow | Comfortable: PyTorch, HuggingFace, OpenCV
+- Advanced: NumPy, Pandas, Matplotlib, TensorFlow | Comfortable: PyTorch, HuggingFace, OpenCV
 
 ## Experience
 
