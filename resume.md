@@ -11,9 +11,8 @@ I am pursuing a Master of Science in Computer Science at Columbia University wit
  - GPA: 3.73/4.00
  
 ## Skills
->(1 = familiar, 2 = comfortable, 3 = advanced)
-- Languages: Python (3), C++ (2), HTML / JavaScript (2), SQL (2), Bash (2), Scala (1), Java (1), C (1) 
-- Frameworks: NumPy (3), Pandas (3), Matplotlib (2), TensorFlow (2), PyTorch (2), HuggingFace (2)
+- Languages: Advanced: Python | Comfortable: C++, HTML, JavaScript, SQL, Bash | Familiar: Scala, Java, C
+- Frameworks: Advanced: NumPy, Pandas, Matplotlib, TensorFlow | Comfortable: PyTorch, HuggingFace, OpenCV
 
 ## Experience
 
