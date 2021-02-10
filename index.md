@@ -14,7 +14,7 @@
 
 ---
 
-[Using Machine Learning to Predict Rapid Decline of Kidney Function in Sickle Cell Anemia](https://onlinelibrary.wiley.com/journal/26886146)
+[Using Machine Learning to Predict Rapid Decline of Kidney Function in Sickle Cell Anemia](https://onlinelibrary.wiley.com/doi/10.1002/jha2.168)
 
 - Final paper was accepted to the ejHaem journal and will be published this year
 - Used traditional machine learning methods, such as linear models, decision trees, and SVMs to predict rapid decline in kidney function for patients with sickle cell anemia.
