@@ -1,5 +1,8 @@
 # Resume Overview
 ## Current Status
+
+{% include chat.html %}
+
 I am pursuing a Master of Science in Computer Science at Columbia University with a focus in machine learning. This Master’s program is part time and online, allowing me to work concurrently.
 ## Education
 ### Columbia University, SEAS
