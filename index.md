@@ -1,7 +1,5 @@
 # Portfolio
 
-{% include chat.html %}
-
 ---
 
 <div id="webchat"/>
