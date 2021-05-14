@@ -15,6 +15,7 @@
 
     <![endif]-->
   </head>
+  <div class="chat-container"></div>
   <body>
     <script src="https://npm-scalableminds.s3.eu-central-1.amazonaws.com/@scalableminds/chatroom@master/dist/Chatroom.js"/></script>
     <script type="text/javascript">
@@ -28,7 +29,6 @@
       });
       chatroom.openChat();
     </script>
-    <div class="chat-container"></div>
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
