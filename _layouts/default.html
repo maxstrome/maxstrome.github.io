@@ -15,7 +15,7 @@
   </head>
   <body>
     <div id="webchat"></div>
-    <div>hi</div>
+    <div>hello</div>
     <script src="https://cdn.jsdelivr.net/npm/rasa-webchat@0.11.5/lib/index.min.js"></script>
     <script>
       WebChat.default.init({
@@ -23,7 +23,6 @@
         initPayload: "/get_started",
         customData: {"language": "en"}, // arbitrary custom data. Stay minimal as this will be added to the socket
         socketUrl: "https://mastrochat.com/",
-        socketPath: "/socket.io/",
         title: "Title",
         subtitle: "Subtitle",
         params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
