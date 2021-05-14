@@ -2,7 +2,6 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="https://npm-scalableminds.s3.eu-central-1.amazonaws.com/@scalableminds/chatroom@master/dist/Chatroom.css" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
@@ -22,7 +21,8 @@
         selector: "#webchat",
         initPayload: "/get_started",
         customData: {"language": "en"}, // arbitrary custom data. Stay minimal as this will be added to the socket
-        socketUrl: "https://mastrochat.com/",
+        socketUrl: "https://mastrochat.com",
+        socketPath: "/socket.io/",
         title: "Title",
         subtitle: "Subtitle",
         params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
