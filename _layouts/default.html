@@ -5,6 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <link rel="stylesheet" href="https://npm-scalableminds.s3.eu-central-1.amazonaws.com/@scalableminds/chatroom@master/dist/Chatroom.css" />
+
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -13,27 +15,19 @@
     <![endif]-->
   </head>
   <body>
-    <div id="webchat"></div>
+    <div class="chat-container"></div>
     new
-    <script>!(function () {
-      let e = document.createElement("script"),
-        t = document.head || document.getElementsByTagName("head")[0];
-      (e.src =
-        "https://cdn.jsdelivr.net/npm/rasa-webchat@1.0.0/lib/index.js"),
-        // Replace 1.x.x with the version that you want
-        (e.async = !0),
-        (e.onload = () => {
-          window.WebChat.default(
-            {
-              customData: { language: "en" },
-              socketUrl: "https://mastrochat.com",
-              // add other props here
-            },
-            null
-          );
-        }),
-        t.insertBefore(e, t.firstChild);
-    })();
+    <script src="https://npm-scalableminds.s3.eu-central-1.amazonaws.com/@scalableminds/chatroom@master/dist/Chatroom.js"/></script>
+    <script type="text/javascript">
+      var chatroom = new window.Chatroom({
+        host: "https://mastrochat.com",
+        title: "Chat with Mike",
+        container: document.querySelector(".chat-container"),
+        welcomeMessage: "Hi, I am Mike. How may I help you?",
+        speechRecognition: "en-US",
+        voiceLang: "en-US"
+      });
+      chatroom.openChat();
     </script>
     <div class="wrapper">
       <header>
