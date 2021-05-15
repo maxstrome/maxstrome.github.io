@@ -6,12 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <link rel="stylesheet" href="https://npm-scalableminds.s3.eu-central-1.amazonaws.com/@scalableminds/chatroom@master/dist/Chatroom.css" />
-    <style>
-    .chatroom {
-          height: 250px;
-          float: right;
-    }
-    </style>
+    
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -21,6 +16,7 @@
     <![endif]-->
   </head>
   <body>
+    <div class="chat-container"></div>
     <script src="https://npm-scalableminds.s3.eu-central-1.amazonaws.com/@scalableminds/chatroom@master/dist/Chatroom.js"/></script>
     <script type="text/javascript">
       var chatroom = new window.Chatroom({
@@ -74,5 +70,4 @@
     </script>
     {% endif %}
   </body>
-<div class="chat-container"></div>
 </html>
