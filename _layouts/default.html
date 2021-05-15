@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <link rel="stylesheet" href="https://npm-scalableminds.s3.eu-central-1.amazonaws.com/@scalableminds/chatroom@master/dist/Chatroom.css" />
-    <style> .chatroom { width: 33%; height: 350px; float: right; } </style>
+    <style> .chatroom { height: 350px; float: right; } </style>
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -42,6 +42,19 @@
 
       </section>
       <footer>
+        <div class="chat-container"></div>
+    <script src="https://npm-scalableminds.s3.eu-central-1.amazonaws.com/@scalableminds/chatroom@master/dist/Chatroom.js"/></script>
+    <script type="text/javascript">
+      var chatroom = new window.Chatroom({
+        host: "https://mastrochat.com",
+        title: "Ask my bot questions about me!",
+        container: document.querySelector(".chat-container"),
+        welcomeMessage: "Hi, I am Max's bot, how can I help?",
+        speechRecognition: "en-US",
+        voiceLang: "en-US"
+      });
+      chatroom.openChat();
+    </script>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
@@ -55,18 +68,5 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
-    <div class="chat-container"></div>
-    <script src="https://npm-scalableminds.s3.eu-central-1.amazonaws.com/@scalableminds/chatroom@master/dist/Chatroom.js"/></script>
-    <script type="text/javascript">
-      var chatroom = new window.Chatroom({
-        host: "https://mastrochat.com",
-        title: "Ask my bot questions about me!",
-        container: document.querySelector(".chat-container"),
-        welcomeMessage: "Hi, I am Max's bot, how can I help?",
-        speechRecognition: "en-US",
-        voiceLang: "en-US"
-      });
-      chatroom.openChat();
-    </script>
   </body>
 </html>
