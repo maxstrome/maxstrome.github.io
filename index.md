@@ -24,7 +24,7 @@
 [Solving the Families In the Wild Kinship Verification Challenge by Program Synthesis](https://ieeexplore.ieee.org/document/9666971/authors#authors)
 - Final paper accepted at IEEE International Conference on Automatic Face and Gesture Recognition 2021 and won third place in FG 2021 Recognizing Families in the Wild Challenge
 - Wrote TensorFlow model to detect kinship given two photos; specifically used an ensemble of two deep fusion networks with the bases being Senet50 and Resnet50. End model is an ensemble of three different kinship models including the one above along with models written by OpenAI Codex
-- (https://www.cs.columbia.edu/2021/columbia-team-wins-top-3-in-the-fg-2021-families-in-the-wild-kinship-verification/)
+- [Columbia Article](https://www.cs.columbia.edu/2021/columbia-team-wins-top-3-in-the-fg-2021-families-in-the-wild-kinship-verification/)
 ---
 
 ### Competitions / School
