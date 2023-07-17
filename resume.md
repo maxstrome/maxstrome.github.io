@@ -4,8 +4,8 @@
 I am pursuing a Master of Science in Computer Science at Columbia University with a focus in machine learning. This Master’s program is part time and online, allowing me to work concurrently.
 ## Education
 ### Columbia University, SEAS
- - Master of Science in Computer Science, September 2020 – present
- - GPA: 4.00/4.00
+ - Master of Science in Computer Science, September 2020 – December 2022
+ - GPA: 3.83/4.00
 
 ### University of Michigan, LSA
  - Bachelor of Science in Computer Science, May 2020
