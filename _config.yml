@@ -11,6 +11,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="blog">Blog</a>
   <br><br>
+  <a href="https://github.com/maxstrome">Github</a>
+  <br><br>
   <a href=".">Home</a>
   
 theme: jekyll-theme-minimal
