@@ -21,10 +21,10 @@ Frameworks | NumPy, Pandas | TensorFlow, PyTorch, OpenCV, HuggingFace, React |
 Cloud |  | AWS, Azure | 
 
 ## Experience
-### DataSense Software, New York, NY
+### DataSense Software, New York, NY (acquired by OneStream Software in May 2024)
 
-#### Senior Data Science Engineer (July 2021 – Present)
-- Senior Data Science engineer at DataSense Software, an automated machine learning startup focusing on time series forecasting of sales in the Corporate Performance Management space.
+#### Staff AI Engineer (Formerly Senior Data Science Engineer) (July 2021 – Present)
+- Staff AI Engineer at DataSense Software, an automated machine learning startup focusing on time series forecasting of sales in the Corporate Performance Management space.
 - Helped with the creation, maintenance, and future direction of the auto ML engine from data cleaning to modeling. Primary languages are Python and SQL, and cloud architecture is Microsoft Azure.
 - Reduced database size by 40% on average and optimized query speed leading to 25% faster run times, both allowing for up to 25,000 target runs, less strain on the database, and a faster user experience.
 - Added feature explainability engine to the pipeline including prediction explanations, feature impact, and prediction intervals using state of the art methods such as SHAP and conformal prediction intervals, providing insights to the user on the predictions of the models and how those predictions were made.
